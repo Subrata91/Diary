@@ -1,0 +1,46 @@
+
+.App {
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.fontawesome-icon {
+  cursor: pointer;
+}
+
+.navbar-brand {
+  cursor: pointer;
+  font-family: 'Sacramento', cursive;
+  font-size: 25px;
+  color: orange;
+}
+
+.navbar-brand:hover {
+  color: bisque;
+}
+
+li, Link {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 13px;
+  text-decoration: none;
+  display: inline;
+  justify-content: flex-end;
+  padding: 0px 10px;
+}
+
+.nav-link {
+  color: bisque;
+}
+
+.nav-link:hover {
+  color: aqua;
+}
+
+.btn-outline-primary {
+  color: bisque;
+  border-color: bisque;
+}
+
+
+
